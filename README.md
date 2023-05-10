@@ -13,5 +13,5 @@ Solve Matrix of type -> Ax=0 where A is a n * m matrix where n is no of rows and
  [x<sub>1</sub>]<br/>
  [x<sub>2</sub>]<br/>
  [x<sub>3</sub>]<br/>
- [. . . .]<br/>
+ [. . ]<br/>
  
