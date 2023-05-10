@@ -10,3 +10,4 @@ Solve Matrix of type -> Ax=0 where A is a n * m matrix where n is no of rows and
 [a<sub>n1</sub> a<sub>n2</sub> a<sub>n3</sub> .......... a<sub>nm</sub>] <br/>
 
   
+s
