@@ -9,5 +9,9 @@ Solve Matrix of type -> Ax=0 where A is a n * m matrix where n is no of rows and
 [. . . . . . . . . . . . . . . . . .] <br/>
 [a<sub>n1</sub> a<sub>n2</sub> a<sub>n3</sub> .......... a<sub>nm</sub>] <br/>
 
-  
-s
+ x is a matrix of type n * 1 :<br/>
+ [x<sub>1</sub>]<br/>
+ [x<sub>2</sub>]<br/>
+ [x<sub>3</sub>]<br/>
+ [. . . .]<br/>
+ 
