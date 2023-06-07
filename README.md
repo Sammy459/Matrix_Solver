@@ -17,4 +17,4 @@ Solve Matrix of type -> Ax=0 where A is a n * m matrix where n is no of rows and
  [. . ]<br/>
  [. . ]<br/>
  [x<sub>n</sub>]<br/>
- 
+  Parametric form is:
